@@ -26,7 +26,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [supatols](https://github.com/deman404/supatols)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
@@ -40,9 +40,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/181856226?v=4" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
