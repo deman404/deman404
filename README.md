@@ -14,7 +14,7 @@ I’m a Software Engineer specializing in **Programming**, **Large Language Mode
 - 💬 Ask me about **full‑stack development**, **DevOps**, or **automation**.
 - ⚡ Fun fact: I love crafting lightweight yet powerful systems that are complex in capability but simple to use.
 
-<br/>
+<img src="https://s3-alpha.figma.com/hub/file/5678700701/91e47b29-8ba0-49cd-a943-01a910e8199d-cover.png" alt="Cover" style="width: 100%; margin: 20px 0;" />
 
 ## 🛠️ My Skill Set
 
