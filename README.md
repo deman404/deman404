@@ -80,6 +80,16 @@ I’m a Software Engineer specializing in **Programming**, **Large Language Mode
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deman404&hide_border=true&theme=radical" alt="GitHub Streak" />
 </p>
 
+### 🏆 GitHub Trophies (Developer Level based on Projects)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deman404&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=deman404&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
@@ -101,7 +111,3 @@ I’m a Software Engineer specializing in **Programming**, **Large Language Mode
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deman404&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
-<!--
-**deman404/deman404** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
