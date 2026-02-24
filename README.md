@@ -87,7 +87,7 @@ I’m a Software Engineer specializing in **Programming**, **Large Language Mode
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=deman404&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deman404&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
