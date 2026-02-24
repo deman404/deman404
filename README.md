@@ -14,7 +14,6 @@ I’m a Software Engineer specializing in **Programming**, **Large Language Mode
 - 💬 Ask me about **full‑stack development**, **DevOps**, or **automation**.
 - ⚡ Fun fact: I love crafting lightweight yet powerful systems that are complex in capability but simple to use.
 
-<img src="https://s3-alpha.figma.com/hub/file/5678700701/91e47b29-8ba0-49cd-a943-01a910e8199d-cover.png" alt="Cover" style="width: 100%; margin: 20px 0;" />
 
 ## 🛠️ My Skill Set
 
@@ -80,10 +79,7 @@ I’m a Software Engineer specializing in **Programming**, **Large Language Mode
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deman404&hide_border=true&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Trophies (Developer Level based on Projects)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deman404&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
+
 
 ### 📈 Contribution Graph
 <p align="center">
